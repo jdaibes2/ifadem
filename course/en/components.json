@@ -1,0 +1,1059 @@
+[
+  {
+    "_component": "text",
+    "_classes": "grand",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "Introduction",
+    "body": "<p><strong><u><span style=\"color:#FFFFFF\"><span style=\"background-color:#800080\">Rima</span></span></u>&nbsp;et <u><span style=\"color:#FFFFFF\"><span style=\"background-color:#800080\">Mira</span></span></u><span style=\"color:#FFFFFF\">&nbsp;</span>sont deux enseignantes qui enseignent la même classe dans deux écoles différentes.</strong></p><p>Pour la même unité « L’anniversaire de Jad» dans leur manuel « Le voyage des mots », elles sont conscientes qu’il s’agit comme point d’arrivée de : « Ecrire un carton d’invitation ». Mais, chacune d’elles l’a abordée à sa façon.</p>",
+    "_id": "6175199833ad2e0edc5f4641",
+    "_parentId": "6175199833ad2e0edc5f4640",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61751b8c33ad2e0edc5f4643",
+    "_parentId": "61751b7a33ad2e0edc5f4642",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Visualisez la vidéo",
+    "_media": {
+      "mp4": "course/en/assets/ec96ac6aafcc1dd4b6f5dfaf38e9f0f56b2c776c.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/5735e10712749d5620a488e2bab2c9674548a1d0.png",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": true,
+    "_playsinline": true,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Ouvrir le transcript ",
+      "inlineTranscriptCloseButton": "Fermer le transcript ",
+      "inlineTranscriptBody": "<p><strong>Scénario de Rima</strong></p><p>Consigne donnée par Rima aux apprenants à la fin de l’unité<br />« L’anniversaire de Jad »</p><p>\"Complète ce carton pour inviter<br />tes amis de classe à ton anniversaire.\"</p><p>Support distribué par Rima aux apprenants<br />Carte d'invitation</p><p><br />&nbsp;</p>",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q1",
+    "displayTitle": "",
+    "body": "<p><strong>Après avoir visualisé la vidéo cochez les cases convenables.</strong></p>",
+    "_id": "61751fa633ad2e0edc5f4650",
+    "_parentId": "61751fa633ad2e0edc5f464c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Rima attend la fin de l’unité pour annoncer le produit final attendu des apprenants.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Elle vise dans son scénario la production écrite.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Le scénario de Rima propose une consigne contextualisée : Qui ? Où ? Quand ? Quoi ? ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Le scénario de Rima conçoit l’apprentissage d’une langue comme des exercices à faire.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>Correct!</strong></p><p>&nbsp;</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p style=\"font-size:32px\"><strong> Incorrect!</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \" ></p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "617526fe33ad2e0edc5f4655",
+    "_parentId": "6175199833ad2e0edc5f4640",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b5d9ceea982b81c5741f33067deddcfd25b70834.png",
+      "small": "course/en/assets/b5d9ceea982b81c5741f33067deddcfd25b70834.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6175276733ad2e0edc5f4661",
+    "_parentId": "6175276733ad2e0edc5f465b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "Visualisez la vidéo",
+    "_media": {
+      "mp4": "course/en/assets/f38918bb19fe85403141fbfb81b08bf88e9c9339.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/dd13541be8c1954c41b19c7c0d26f6a0a9500bf4.png",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": true,
+    "_playsinline": true,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Ouvrir le transcript ",
+      "inlineTranscriptCloseButton": "Fermer le transcript ",
+      "inlineTranscriptBody": "<p><strong>Scénario de Mira</strong></p><p>Consigne donnée par Mira aux apprenants au début de l’unité</p><p>« L’anniversaire de Jad ».</p><p>Ce mois-ci nous sommes invités à fêter l’anniversaire d’un ami de notre classe, ici à l’école. Pour cela, nous allons lister tout ce dont on a besoin de faire pour réussir cet anniversaire. Allez ; qui va me dire de quoi on a besoin ?</p><p><strong>A titre d’exemples :</strong></p><p>-&nbsp;Décider des invités, du jour, de l’heure</p><p>-&nbsp;Préparer les cartons d’invitation</p><p>-&nbsp;Faire la liste du menu à préparer et/ou à acheter</p><p>-&nbsp;Lire des notices de fabrication de cadeaux pour les fabriquer</p><p>-&nbsp;Décorer la classe</p><p>-&nbsp;Choisir les chansons pour célébrer l’anniversaire.</p><p>- Faire un programme pour les 2 heures de l’anniversaire</p><p><br />&nbsp;</p>",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q2",
+    "displayTitle": "",
+    "body": "<p><strong>Après avoir visualisé la vidéo cochez les cases convenables.</strong></p>",
+    "_id": "6175276733ad2e0edc5f4664",
+    "_parentId": "6175276733ad2e0edc5f465c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Mira contextualise l’unité et la rend plus proche du vécu des apprenants",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Elle annonce la tâche attendue des apprenants dès le début de l’unité.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Elle vise dans son scénario le processus qui permet de réussir une tâche. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Le scénario de Mira permet de travailler des activités de compréhension, de production et des activités artistiques indispensables pour réussir une tâche : célébrer un anniversaire.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>Correct!</strong></p><p>&nbsp;</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Incorrect!</strong></p><p>&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>a. Lequel des deux scénarios met l’accent sur le pragmatique (la fonction de la langue) et non&nbsp; sur&nbsp; le&nbsp; linguistique (lexique, structure de phrases…) ?</strong></p>",
+    "_id": "6175359abf3b080c442ec015",
+    "_parentId": "6175357cbf3b080c442ec014",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Scénario de Rima",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Scénario de Mira",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>b. Lequel des deux scénarios est plus en relation avec la vie des apprenants ?</strong></p>",
+    "_id": "61753a54bf3b080c442ec018",
+    "_parentId": "61753a54bf3b080c442ec017",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Scénario de Rima",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Scénario de Mira",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p style=\"text-align:center\"><strong>Correct !</strong></p>",
+      "_incorrect": {
+        "final": "<p style=\"text-align:center\"><strong>Incorrect !</strong></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>c. Lequel des deux scénarios mobilise le plus de stratégies pour accomplir une tâche donnée?</strong></p>",
+    "_id": "61753a84bf3b080c442ec01b",
+    "_parentId": "61753a84bf3b080c442ec01a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Scénario de Rima",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Scénario de Mira",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p style=\"text-align:center\"><strong>Correct !</strong></p>",
+      "_incorrect": {
+        "final": "<p style=\"text-align:center\"><strong>Incorrect !</strong></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>d. Lequel des deux scénarios permet aux apprenants de mobiliser des savoirs et des savoir-faire de la vie quotidienne et donc qui ne sont pas restreints à l’apprentissage du français à l’école ?</strong></p>",
+    "_id": "6175687297d11b208c9661bd",
+    "_parentId": "6175687197d11b208c9661bc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Scénario de Rima",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Scénario de Mira",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p style=\"text-align:center\"><strong>Correct !</strong></p>",
+      "_incorrect": {
+        "final": "<p style=\"text-align:center\"><strong>Incorrect !</strong></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>e. Lequel des deux scénarios identifie l’apprenant comme un acteur social qui réalise des tâches?</strong></p>",
+    "_id": "617568b997d11b208c9661c2",
+    "_parentId": "617568b997d11b208c9661c1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Scénario de Rima",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Scénario de Mira",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p style=\"text-align:center\"><strong>Correct !</strong></p>",
+      "_incorrect": {
+        "final": "<p style=\"text-align:center\"><strong>Incorrect !</strong></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>f. Lequel des deux scénarios, est à votre avis plus motivant pour les élèves?</strong></p>",
+    "_id": "617568ec97d11b208c9661c6",
+    "_parentId": "617568ec97d11b208c9661c5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Scénario de Rima",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Scénario de Mira",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p style=\"text-align:center\"><strong>Correct !</strong></p>",
+      "_incorrect": {
+        "final": "<p style=\"text-align:center\"><strong>Incorrect !</strong></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>g. Lequel des deux scénarios choisiriez-vous de mettre en place dans votre classe?</strong></p>",
+    "_id": "6175690d97d11b208c9661c9",
+    "_parentId": "6175690d97d11b208c9661c8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Scénario de Rima",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "_graphic": {
+          "large": "",
+          "small": "",
+          "alt": "",
+          "attribution": ""
+        },
+        "text": "Scénario de Mira",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 2,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p style=\"text-align:center\"><strong>Correct !</strong></p>",
+      "_incorrect": {
+        "final": "<p style=\"text-align:center\"><strong>Incorrect !</strong></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  }
+]
