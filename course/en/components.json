@@ -11,7 +11,7 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "Introduction",
-    "body": "<p><strong><u><span style=\"color:#FFFFFF\"><span style=\"background-color:#800080\">Rima</span></span></u>&nbsp;et <u><span style=\"color:#FFFFFF\"><span style=\"background-color:#800080\">Mira</span></span></u><span style=\"color:#FFFFFF\">&nbsp;</span>sont deux enseignantes qui enseignent la même classe dans deux écoles différentes.</strong></p><p>Pour la même unité « L’anniversaire de Jad» dans leur manuel « Le voyage des mots », elles sont conscientes qu’il s’agit comme point d’arrivée de : « Ecrire un carton d’invitation ». Mais, chacune d’elles l’a abordée à sa façon.</p>",
+    "body": "<p><strong><u><span style=\"color:#FFFFFF\"><span style=\"background-color:#800080\">Rima</span></span></u>&nbsp;et <u><span style=\"color:#FFFFFF\"><span style=\"background-color:#800080\">Mira</span></span></u><span style=\"color:#FFFFFF\">&nbsp;</span>sont deux enseignantes qui enseignent la même classe dans deux écoles différentes.</strong></p><p>Pour la même unité « L’anniversaire de Jad» dans leur manuel « Le voyage des mots », elles sont conscientes qu’il s’agit comme point d’arrivée de : « Ecrire un carton d’invitation ». Mais, chacune d’elles l’a abordée à sa façon.</p><p><u><em>Demonstration par Jean Daibes</em></u></p>",
     "_id": "6175199833ad2e0edc5f4641",
     "_parentId": "6175199833ad2e0edc5f4640",
     "_type": "component",
@@ -606,7 +606,7 @@
       },
       {
         "text": "L’enseignant donne à l’apprenant des consignes que ce dernier doit exécuter",
-        "_shouldBeSelected": true,
+        "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
