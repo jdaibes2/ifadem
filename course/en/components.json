@@ -63,7 +63,7 @@
     },
     "_setCompletionOn": "play",
     "_useClosedCaptions": true,
-    "_startLanguage": "fr",
+    "_startLanguage": "",
     "_showVolumeControl": true,
     "_startVolume": "80%",
     "_allowFullScreen": true,
