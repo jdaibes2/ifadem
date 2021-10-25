@@ -6,7 +6,7 @@
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 12,
+  "_latestTrackingId": 7,
   "_buttons": {
     "_submit": {
       "buttonText": "Soumettre",
@@ -28,7 +28,7 @@
       "buttonText": "Feedback",
       "ariaLabel": "Show feedback"
     },
-    "remainingAttemptsText": "Essai (s)",
+    "remainingAttemptsText": "essais",
     "remainingAttemptText": "Dernier essai",
     "disabledAriaLabel": "This button is disabled at the moment"
   },

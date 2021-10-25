@@ -1,11 +1,11 @@
 [
   {
     "title": "New Menu/Page Title",
-    "displayTitle": "Autotest 1",
-    "body": "<p><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#800080\">Classe EB1 – Unité du manuel scolaire «L’anniversaire de Jad»</span></strong></span></p>",
+    "displayTitle": "Les atouts de l’approche actionnelle pour l’enseignement des langues",
+    "body": "",
     "_classes": "",
-    "subtitle": "Les atouts de l’approche actionnelle pour l’enseignement des langues",
-    "pageBody": "",
+    "subtitle": "",
+    "pageBody": "<p><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#800080\">Classe EB1 – Unité du manuel scolaire «L’anniversaire de Jad»</span></strong></span></p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "Commencer",
@@ -23,7 +23,7 @@
     "_parentId": "course",
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/050f3463f5f8df37387c5b059d82f010e89e9df7.png"
     },
     "_onScreen": {
       "_isEnabled": false,

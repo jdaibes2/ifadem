@@ -1,9 +1,4 @@
 {
-  "ec96ac6aafcc1dd4b6f5dfaf38e9f0f56b2c776c.mp4": {
-    "title": "rima.mp4",
-    "description": "rima.mp4",
-    "tags": []
-  },
   "5735e10712749d5620a488e2bab2c9674548a1d0.png": {
     "title": "adapt-cover-rima.png",
     "description": "adapt-cover-rima.png",
@@ -22,6 +17,21 @@
   "dd13541be8c1954c41b19c7c0d26f6a0a9500bf4.png": {
     "title": "adapt-cover-mira.png",
     "description": "adapt-cover-mira.png",
+    "tags": []
+  },
+  "050f3463f5f8df37387c5b059d82f010e89e9df7.png": {
+    "title": "les-dames-2.png",
+    "description": "les-dames-2.png",
+    "tags": []
+  },
+  "c27aa722755c47a213ca40b73fcf0e807db009e6.mp4": {
+    "title": "Rima-Demo.mp4",
+    "description": "Rima-Demo.mp4",
+    "tags": []
+  },
+  "bcb940d32c0a236559f39c7ac92248570d31910d.vtt": {
+    "title": "scenario-de-rima-caption.vtt",
+    "description": "scenario-de-rima-caption.vtt",
     "tags": []
   }
 }
