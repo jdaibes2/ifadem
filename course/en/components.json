@@ -541,7 +541,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "New Component Title",
+    "title": "Q4",
     "displayTitle": "",
     "body": "<p><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#800080\">Les atouts de l’approche actionnelle pour l’enseignement des langues.&nbsp;</span></strong></span></p><p><strong>Il est clair que Mira a suivi une formation sur <u>l’approche actionnelle</u> et qu’elle tente d’exploiter ses acquis en classe.</strong></p><p><strong>Selectionnez&nbsp;dans cette liste les items qui vous paraissent indispensables pour définir l’approche actionnelle pour l’enseignement des langues.</strong></p>",
     "_id": "6176e8bbe85bb9315cd316aa",
@@ -652,7 +652,7 @@
     "_selectable": 12,
     "_feedback": {
       "title": "",
-      "correct": "<p style=\"font-size:32px\"><strong>Correct!</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" > </p>\n<audio  autoplay>\n\t <source src=\"assets/tin.mp3\" type=\"audio/mpeg\">\n</audio>\n",
+      "correct": "<p><strong>Correct!</strong></p><p>&nbsp;</p><p>&nbsp;</p>",
       "_incorrect": {
         "final": "<p style=\"font-size:32px\"><strong> Incorrect!</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \" ></p>\n",
         "notFinal": ""
