@@ -34,6 +34,12 @@
       "_isEnabled": true,
       "_level": "inherit"
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_boxMenu": {
       "_renderAsGroup": false
     },

@@ -21,6 +21,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": ""
   },
   {
@@ -45,9 +49,13 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "Visualisez la vidéo",
     "_media": {
-      "mp4": "course/en/assets/c27aa722755c47a213ca40b73fcf0e807db009e6.mp4",
+      "mp4": "course/en/assets/5b113972b63b91081445d7c64644dd633999ba35.mp4",
       "ogv": "",
       "webm": "",
       "mp3": "",
@@ -77,7 +85,7 @@
       "_externalTranscript": false,
       "inlineTranscriptButton": "Ouvrir le transcript ",
       "inlineTranscriptCloseButton": "Fermer le transcript ",
-      "inlineTranscriptBody": "<p><strong>Scénario de Rima</strong></p><p>Consigne donnée par Rima aux apprenants à la fin de l’unité<br />« L’anniversaire de Jad »</p><p>\"Complète ce carton pour inviter<br />tes amis de classe à ton anniversaire.\"</p><p>Support distribué par Rima aux apprenants<br />Carte d'invitation</p><p><br />&nbsp;</p>",
+      "inlineTranscriptBody": "<p><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#800080\">&nbsp;Scénario de Rima&nbsp;</span></strong></span></p><p><strong>Consigne donnée</strong> <strong>par Rima</strong> aux apprenants à la fin de l’unité<br />« L’anniversaire de Jad »</p><p>\"Complète ce carton pour inviter<br />tes amis de classe à ton anniversaire.\"</p><p><strong>Support distribué </strong>par Rima aux apprenants<br />Carton d'invitation</p><p><br />&nbsp;</p>",
       "transcriptLinkButton": "",
       "transcriptLink": ""
     },
@@ -104,6 +112,10 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_items": [
@@ -205,6 +217,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -226,8 +242,8 @@
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "6175276733ad2e0edc5f4661",
-    "_parentId": "6175276733ad2e0edc5f465b",
+    "_id": "61790b7b00767825b85f8154",
+    "_parentId": "61790b7b00767825b85f8153",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -235,9 +251,13 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "instruction": "Visualisez la vidéo",
     "_media": {
-      "mp4": "course/en/assets/f38918bb19fe85403141fbfb81b08bf88e9c9339.mp4",
+      "mp4": "course/en/assets/2061a4b0ae709c174ee68bbd9352fa7ae2d62a92.mp4",
       "ogv": "",
       "webm": "",
       "mp3": "",
@@ -262,7 +282,7 @@
       "_externalTranscript": false,
       "inlineTranscriptButton": "Ouvrir le transcript ",
       "inlineTranscriptCloseButton": "Fermer le transcript ",
-      "inlineTranscriptBody": "<p><strong>Scénario de Mira</strong></p><p>Consigne donnée par Mira aux apprenants au début de l’unité</p><p>« L’anniversaire de Jad ».</p><p>Ce mois-ci nous sommes invités à fêter l’anniversaire d’un ami de notre classe, ici à l’école. Pour cela, nous allons lister tout ce dont on a besoin de faire pour réussir cet anniversaire. Allez ; qui va me dire de quoi on a besoin ?</p><p><strong>A titre d’exemples :</strong></p><p>-&nbsp;Décider des invités, du jour, de l’heure</p><p>-&nbsp;Préparer les cartons d’invitation</p><p>-&nbsp;Faire la liste du menu à préparer et/ou à acheter</p><p>-&nbsp;Lire des notices de fabrication de cadeaux pour les fabriquer</p><p>-&nbsp;Décorer la classe</p><p>-&nbsp;Choisir les chansons pour célébrer l’anniversaire.</p><p>- Faire un programme pour les 2 heures de l’anniversaire</p><p><br />&nbsp;</p>",
+      "inlineTranscriptBody": "<p><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#800080\">&nbsp;Scénario de Mira&nbsp;</span></strong></span></p><p><strong>Consigne donnée par Mira</strong> aux apprenants au début de l’unité</p><p>« L’anniversaire de Jad ».</p><p>Ce mois-ci nous sommes invités à fêter l’anniversaire d’un ami de notre classe, ici à l’école. Pour cela, nous allons lister tout ce dont on a besoin de faire pour réussir cet anniversaire. Allez ; qui va me dire de quoi on a besoin ?</p><p><strong>A titre d’exemples :</strong></p><p>-&nbsp;Décider des invités, du jour, de l’heure</p><p>-&nbsp;Préparer les cartons d’invitation</p><p>-&nbsp;Faire la liste du menu à préparer et/ou à acheter</p><p>-&nbsp;Lire des notices de fabrication de cadeaux pour les fabriquer</p><p>-&nbsp;Décorer la classe</p><p>-&nbsp;Choisir les chansons pour célébrer l’anniversaire.</p><p>- Faire un programme pour les 2 heures de l’anniversaire</p><p><br />&nbsp;</p>",
       "transcriptLinkButton": "",
       "transcriptLink": ""
     },
@@ -281,14 +301,18 @@
     "title": "Q2",
     "displayTitle": "",
     "body": "<p><strong>Après avoir visualisé la vidéo cochez les cases convenables.</strong></p>",
-    "_id": "6175276733ad2e0edc5f4664",
-    "_parentId": "6175276733ad2e0edc5f465c",
+    "_id": "61790ba100767825b85f8159",
+    "_parentId": "61790ba100767825b85f8158",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_items": [
@@ -381,14 +405,18 @@
     "title": "Q3",
     "displayTitle": "",
     "body": "<p><strong>Après avoir vu les deux scénarios, sélectionnez&nbsp;la bonne répone:</strong></p>",
-    "_id": "61759e75c5c9cf17cc6f3552",
-    "_parentId": "61759e6ec5c9cf17cc6f3551",
+    "_id": "61790bc400767825b85f815c",
+    "_parentId": "61790bc400767825b85f815b",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_attempts": 3,
@@ -544,14 +572,18 @@
     "title": "Q4",
     "displayTitle": "",
     "body": "<p><span style=\"color:#FFFFFF\"><strong><span style=\"background-color:#800080\">Les atouts de l’approche actionnelle pour l’enseignement des langues.&nbsp;</span></strong></span></p><p><strong>Il est clair que Mira a suivi une formation sur <u>l’approche actionnelle</u> et qu’elle tente d’exploiter ses acquis en classe.</strong></p><p><strong>Selectionnez&nbsp;dans cette liste les items qui vous paraissent indispensables pour définir l’approche actionnelle pour l’enseignement des langues.</strong></p>",
-    "_id": "6176e8bbe85bb9315cd316aa",
-    "_parentId": "6176e78de85bb9315cd316a7",
+    "_id": "61790bd600767825b85f815f",
+    "_parentId": "61790bd600767825b85f815e",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_items": [
@@ -652,7 +684,7 @@
     "_selectable": 12,
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>Correct!</strong></p><p>&nbsp;</p><p>&nbsp;</p>",
+      "correct": "<p style=\"font-size:32px\"><strong>Correct!</strong></p>\n<p style=\" width:200px\"> <img  src=\"assets/true.png \" > </p>\n<audio  autoplay>\n\t <source src=\"assets/tin.mp3\" type=\"audio/mpeg\">\n</audio>\n",
       "_incorrect": {
         "final": "<p style=\"font-size:32px\"><strong> Incorrect!</strong></p>\n<p style=\" width:200px\"> <img src=\"assets/false.png \" ></p>\n",
         "notFinal": ""

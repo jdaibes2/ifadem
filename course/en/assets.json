@@ -9,11 +9,6 @@
     "description": "les-dames.png",
     "tags": []
   },
-  "f38918bb19fe85403141fbfb81b08bf88e9c9339.mp4": {
-    "title": "Untitled Project.mp4",
-    "description": "Untitled Project.mp4",
-    "tags": []
-  },
   "dd13541be8c1954c41b19c7c0d26f6a0a9500bf4.png": {
     "title": "adapt-cover-mira.png",
     "description": "adapt-cover-mira.png",
@@ -24,14 +19,19 @@
     "description": "les-dames-2.png",
     "tags": []
   },
-  "c27aa722755c47a213ca40b73fcf0e807db009e6.mp4": {
-    "title": "Rima-Demo.mp4",
-    "description": "Rima-Demo.mp4",
-    "tags": []
-  },
   "14d5341b700ea7f92b5fd84db3cefbad8e84cdd1.vtt": {
     "title": "scenario-de-rima-caption.vtt",
     "description": "scenario-de-rima-caption.vtt",
+    "tags": []
+  },
+  "5b113972b63b91081445d7c64644dd633999ba35.mp4": {
+    "title": "Video-Rima.mp4",
+    "description": "Video-Rima.mp4",
+    "tags": []
+  },
+  "2061a4b0ae709c174ee68bbd9352fa7ae2d62a92.mp4": {
+    "title": "Video-mira.mp4",
+    "description": "Video-mira.mp4",
     "tags": []
   }
 }
