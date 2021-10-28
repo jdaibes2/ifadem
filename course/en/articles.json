@@ -1,6 +1,6 @@
 [
   {
-    "title": "Rima",
+    "title": "New Article Title",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -11,8 +11,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6175199833ad2e0edc5f463f",
-    "_parentId": "6175199833ad2e0edc5f463e",
+    "_id": "617a60957078ed2054bc6b7d",
+    "_parentId": "617a5f727078ed2054bc6b63",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -21,14 +21,14 @@
     },
     "_assessment": {
       "_isEnabled": true,
-      "_id": "test",
+      "_id": "quiz",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 10,
       "_correctToPass": 10,
       "_includeInTotalScore": true,
       "_assessmentWeight": 1,
-      "_suppressMarking": true,
+      "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
       "_scrollToOnReset": false,
@@ -37,13 +37,13 @@
         "_blockCount": -1
       },
       "_banks": {
-        "_isEnabled": true,
-        "_split": "4",
+        "_isEnabled": false,
+        "_split": "",
         "_randomisation": false
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": true,
+        "_canShowFeedback": false,
         "_canShowMarking": true,
         "_canShowModelAnswer": true
       }
@@ -53,8 +53,8 @@
       "_isCompletionIndicatorEnabled": false
     },
     "_trickle": {
-      "_isEnabled": true,
-      "_autoScroll": true,
+      "_isEnabled": false,
+      "_autoScroll": false,
       "_scrollDuration": 500,
       "_onChildren": false,
       "_scrollTo": "@block +1",
@@ -67,7 +67,7 @@
         "_showEndOfPage": true,
         "_className": "",
         "_hasIcon": false,
-        "text": "Continuer",
+        "text": "Continue",
         "ariaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",

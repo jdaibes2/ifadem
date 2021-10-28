@@ -1,19 +1,19 @@
 {
-  "title": "Scenarios",
+  "title": "IFadem",
   "displayTitle": "",
   "body": "",
   "subtitle": "",
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 7,
+  "_latestTrackingId": 14,
   "_buttons": {
     "_submit": {
       "buttonText": "Soumettre",
       "ariaLabel": "Submit"
     },
     "_reset": {
-      "buttonText": "Recommencer",
+      "buttonText": "Essayer encore une fois",
       "ariaLabel": "Reset"
     },
     "_showCorrectAnswer": {
