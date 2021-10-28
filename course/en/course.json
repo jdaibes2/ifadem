@@ -13,7 +13,7 @@
       "ariaLabel": "Submit"
     },
     "_reset": {
-      "buttonText": "Essayer encore une fois",
+      "buttonText": "&#10008; Essayer encore une fois",
       "ariaLabel": "Reset"
     },
     "_showCorrectAnswer": {
@@ -126,19 +126,19 @@
       }
     },
     "_extensions": {
-      "_languagePicker": {
-        "navigationBarLabel": "Select course language",
-        "languageSelector": "Language selector"
-      },
-      "_trickle": {
-        "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
-      },
       "_pageLevelProgress": {
         "pageLevelProgress": "Page sections",
         "pageLevelProgressIndicatorBar": "Page progress. Use this to listen to the list of regions in this topic and whether they're completed. You can jump directly to any that are incomplete or which sound particularly interesting. {{percentageComplete}}%",
         "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
         "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional content"
+      },
+      "_languagePicker": {
+        "navigationBarLabel": "Select course language",
+        "languageSelector": "Language selector"
+      },
+      "_trickle": {
+        "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
       }
     },
     "_menu": {
